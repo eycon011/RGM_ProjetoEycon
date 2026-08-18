@@ -1,2 +1,3 @@
 # RGM_ProjetoEycon
-meu primeiro projeto de python.
+
+Este foi o primeiro projeto criado em Python de muitos!
